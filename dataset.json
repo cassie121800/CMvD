@@ -5,6 +5,7 @@
     "labels": {
         "background": 0,
         "glaucoma": 1
+        "cataract": 2
     },
     "numTraining": 100,
     "file_ending": ".nii.gz"
